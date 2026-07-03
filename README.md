@@ -40,7 +40,7 @@ ML systems and creating actionable insights from complex datasets.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏥 [Diabetes Risk Prediction](link) | ML classifier achieving 87% accuracy for early diabetes risk detection | Random Forest, Streamlit |
+| 🏥 [https://github.com/Osabhue-Mathew24/Diabetes-Risk-Analysis-Indicator](link) | ML classifier achieving 87% accuracy for early diabetes risk detection | Random Forest, Streamlit |
 | 📈 [Sales Forecasting Model](link) | Regression model predicting supermarket sales with R²=0.82 | Python, Scikit-learn |
 | 💬 [Sentiment Analysis NN](link) | Deep neural network for review classification, 89% accuracy | TensorFlow, NLTK |
 | 🎙️ [Speech-Enabled Chatbot](link) | Voice + text chatbot combining speech recognition with NLP | Speech Recognition, Streamlit |
